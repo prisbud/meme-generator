@@ -1,3 +1,8 @@
+This project is using API to generate random images. API link -"https://api.imgflip.com/get_memes"
+
+Please click on link below to open live website link of meme generator 
+https://606ab9b8be4e1990d8a6e345--cranky-jang-8cdb6a.netlify.app/
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
